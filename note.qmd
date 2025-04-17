@@ -11,3 +11,7 @@ summary(mtcars)
 ```
 
 
+Add a new section or chunk
+Fix a typo
+Add a final comment
+
